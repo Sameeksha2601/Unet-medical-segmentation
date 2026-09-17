@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+data/images/*
+data/masks/*
+!data/images/.gitkeep
+!data/masks/.gitkeep
+checkpoints/*.pth
+checkpoints/*.json
+outputs/*.png
+.DS_Store
